@@ -1,0 +1,513 @@
+{
+    "interactionModel": {
+        "languageModel": {
+            "invocationName": "control del robot",
+            "intents": [
+                {
+                    "name": "ModoUnoIntent",
+                    "slots": [],
+                    "samples": [
+                        "cerrar la mano",
+                        "cierra la mano",
+                        "activa cerrar la mano",
+                        "inicia cerrar la mano",
+                        "ejecuta cerrar la mano"
+                    ]
+                },
+                {
+                    "name": "ModoDosIntent",
+                    "slots": [],
+                    "samples": [
+                        "modo rock",
+                        "rock",
+                        "activa modo rock",
+                        "inicia modo rock",
+                        "ejecuta modo rock"
+                    ]
+                },
+                {
+                    "name": "ModoTresIntent",
+                    "slots": [],
+                    "samples": [
+                        "abrir la mano",
+                        "abre la mano",
+                        "activa abrir la mano",
+                        "inicia abrir la mano",
+                        "ejecuta abrir la mano"
+                    ]
+                },
+                {
+                    "name": "ModoCuatroIntent",
+                    "slots": [],
+                    "samples": [
+                        "saludo uno",
+                        "activa saludo uno",
+                        "inicia saludo uno",
+                        "ejecuta saludo uno"
+                    ]
+                },
+                {
+                    "name": "ModoCincoIntent",
+                    "slots": [],
+                    "samples": [
+                        "saludo dos",
+                        "activa saludo dos",
+                        "inicia saludo dos",
+                        "ejecuta saludo dos"
+                    ]
+                },
+                {
+                    "name": "ModoSeisIntent",
+                    "slots": [],
+                    "samples": [
+                        "ok",
+                        "activa ok",
+                        "inicia ok",
+                        "ejecuta ok"
+                    ]
+                },
+                {
+                    "name": "ModoSacarDedoIntent",
+                    "slots": [],
+                    "samples": [
+                        "saca el dedo",
+                        "activa sacar el dedo",
+                        "inicia saca el dedo",
+                        "ejecuta sacar el dedo"
+                    ]
+                },
+                {
+                    "name": "ModoSieteIntent",
+                    "slots": [],
+                    "samples": [
+                        "cierra pulgar",
+                        "cierra el pulgar",
+                        "cierra el dedo pulgar",
+                        "activa cierra pulgar",
+                        "inicia cierra pulgar",
+                        "ejecuta cierra pulgar"
+                    ]
+                },
+                {
+                    "name": "ModoOchoIntent",
+                    "slots": [],
+                    "samples": [
+                        "cierra índice",
+                        "cierra el indice",
+                        "cierra el dedo indice",
+                        "activa cierra índice",
+                        "inicia cierra índice",
+                        "ejecuta cierra índice"
+                    ]
+                },
+                {
+                    "name": "ModoNueveIntent",
+                    "slots": [],
+                    "samples": [
+                        "cierra dedo del medio",
+                        "cierra el dedo del medio",
+                        "activa cierra dedo del medio",
+                        "inicia cierra dedo del medio",
+                        "ejecuta cierra dedo del medio"
+                    ]
+                },
+                {
+                    "name": "ModoDiezIntent",
+                    "slots": [],
+                    "samples": [
+                        "cierra anular",
+                        "cierra el anular",
+                        "cierra el dedo anular",
+                        "activa cierra anular",
+                        "inicia cierra anular",
+                        "ejecuta cierra anular"
+                    ]
+                },
+                {
+                    "name": "ModoOnceIntent",
+                    "slots": [],
+                    "samples": [
+                        "cierra meñique",
+                        "cierra el meñique",
+                        "cierra el dedo meñique",
+                        "activa cierra meñique",
+                        "inicia cierra meñique",
+                        "ejecuta cierra meñique"
+                    ]
+                },
+                {
+                    "name": "ModoPulgarIntent",
+                    "slots": [],
+                    "samples": [
+                        "abre pulgar",
+                        "abre el pulgar",
+                        "abre el dedo pulgar",
+                        "activa abre pulgar",
+                        "inicia abre pulgar",
+                        "ejecuta abre pulgar"
+                    ]
+                },
+                {
+                    "name": "ModoIndiceIntent",
+                    "slots": [],
+                    "samples": [
+                        "abre índice",
+                        "abre el indice",
+                        "abre el dedo indice",
+                        "activa abre índice",
+                        "inicia abre índice",
+                        "ejecuta abre índice"
+                    ]
+                },
+                {
+                    "name": "ModoMedioIntent",
+                    "slots": [],
+                    "samples": [
+                        "abre dedo del medio",
+                        "abre el dedo del medio",
+                        "activa abre dedo del medio",
+                        "inicia abre dedo del medio",
+                        "ejecuta abre dedo del medio"
+                    ]
+                },
+                {
+                    "name": "ModoAnularIntent",
+                    "slots": [],
+                    "samples": [
+                        "abre anular",
+                        "abre el anular",
+                        "abre el dedo anular",
+                        "activa abre anular",
+                        "inicia abre anular",
+                        "ejecuta abre anular"
+                    ]
+                },
+                {
+                    "name": "ModoMeniqueIntent",
+                    "slots": [],
+                    "samples": [
+                        "abre meñique",
+                        "abre el meñique",
+                        "abre el dedo meñique",
+                        "activa abre meñique",
+                        "inicia abre meñique",
+                        "ejecuta abre meñique"
+                    ]
+                },
+                {
+                    "name": "ModoIzquierdaIntent",
+                    "slots": [],
+                    "samples": [
+                        "mueve izquierda",
+                        "mueve a la izquierda",
+                        "mueve a la izquierda la mano",
+                        "activa mueve a la izquierda",
+                        "ejecuta mueve a la izqueda"
+                    ]
+                },
+                {
+                    "name": "ModoDerechaIntent",
+                    "slots": [],
+                    "samples": [
+                        "mueve derecha",
+                        "mueve a la derecha",
+                        "mueve a la derecha la mano",
+                        "activa mueve a la derecha",
+                        "ejecuta mueve a la derecha"
+                    ]
+                },
+                {
+                    "name": "ModoCentroIntent",
+                    "slots": [],
+                    "samples": [
+                        "mueve centro",
+                        "mueve al centro",
+                        "mueve al centro la mano",
+                        "activa mueve al centro",
+                        "ejecuta mueve al centro"
+                    ]
+                },
+                {
+                    "name": "OtraAccionIntent",
+                    "slots": [],
+                    "samples": [
+                        "quiero otra acción",
+                        "haz otra cosa",
+                        "otra acción",
+                        "siguiente acción"
+                    ]
+                },
+                {
+                    "name": "ControlTotalIntent",
+                    "slots": [],
+                    "samples": [
+                        "control total",
+                        "activa control total",
+                        "activar control total"
+                    ]
+                },
+                {
+                    "name": "ControlTotalSalirIntent",
+                    "slots": [],
+                    "samples": [
+                        "salir del control total",
+                        "desactivar control total"
+                    ]
+                },
+                {
+                    "name": "ModoJuegoIntent",
+                    "slots": [],
+                    "samples": [
+                        "juego",
+                        "activa juego",
+                        "activar juego"
+                    ]
+                },
+                {
+                    "name": "ModoJuegoSalirIntent",
+                    "slots": [],
+                    "samples": [
+                        "salir del juego",
+                        "desactivar juego"
+                    ]
+                },
+                {
+                    "name": "ModoSignosIntent",
+                    "slots": [],
+                    "samples": [
+                        "activar modo números",
+                        "activar numeros",
+                        "numeros"
+                    ]
+                },
+                {
+                    "name": "ModoSignosSalirIntent",
+                    "slots": [],
+                    "samples": [
+                        "salir de numeros",
+                        "salir del modo numeros"
+                    ]
+                },
+                {
+                    "name": "ModoPiedraIntent",
+                    "slots": [],
+                    "samples": [
+                        "piedra",
+                        "activa piedra",
+                        "saca piedra",
+                        "quiero piedra",
+                        "activar piedra"
+                    ]
+                },
+                {
+                    "name": "ModoTijeraIntent",
+                    "slots": [],
+                    "samples": [
+                        "tijera",
+                        "activa tijera",
+                        "saca tijera",
+                        "quiero tijera",
+                        "activar tijera"
+                    ]
+                },
+                {
+                    "name": "ModoPapelIntent",
+                    "slots": [],
+                    "samples": [
+                        "papel",
+                        "activa papel",
+                        "saca papel",
+                        "quiero papel",
+                        "activar papel"
+                    ]
+                },
+                {
+                    "name": "ModoNumeroUnoIntent",
+                    "slots": [],
+                    "samples": [
+                        "uno",
+                        "numero uno",
+                        "activa uno",
+                        "activa numero uno",
+                        "quiero uno",
+                        "activar uno",
+                        "activar numero uno"
+                    ]
+                },
+                {
+                    "name": "ModoNumeroDosIntent",
+                    "slots": [],
+                    "samples": [
+                        "dos",
+                        "numero dos",
+                        "activa dos",
+                        "activa numero dos",
+                        "quiero dos",
+                        "activar dos",
+                        "activar numero dos"
+                    ]
+                },
+                {
+                    "name": "ModoNumeroTresIntent",
+                    "slots": [],
+                    "samples": [
+                        "tres",
+                        "numero tres",
+                        "activa tres",
+                        "activa numero tres",
+                        "quiero tres",
+                        "activar tres",
+                        "activar numero tres"
+                    ]
+                },
+                {
+                    "name": "ModoNumeroCuatroIntent",
+                    "slots": [],
+                    "samples": [
+                        "cuatro",
+                        "numero cuatro",
+                        "activa cuatro",
+                        "activa numero cuatro",
+                        "quiero cuatro",
+                        "activar cuatro",
+                        "activar numero cutro"
+                    ]
+                },
+                {
+                    "name": "ModoNumeroCincoIntent",
+                    "slots": [],
+                    "samples": [
+                        "cinco",
+                        "numero cinco",
+                        "activa cinco",
+                        "activa numero cinco",
+                        "quiero cinco",
+                        "activar cinco",
+                        "activar numero cinco"
+                    ]
+                },
+                {
+                    "name": "ModoNumeroSeisIntent",
+                    "slots": [],
+                    "samples": [
+                        "seis",
+                        "numero seis",
+                        "activa seis",
+                        "activa numero seis",
+                        "quiero seis",
+                        "activar seis",
+                        "activar numero seis"
+                    ]
+                },
+                {
+                    "name": "ModoNumeroSieteIntent",
+                    "slots": [],
+                    "samples": [
+                        "siete",
+                        "numero siete",
+                        "activa siete",
+                        "activa numero siete",
+                        "quiero siete",
+                        "activar siete",
+                        "activar numero siete"
+                    ]
+                },
+                {
+                    "name": "ModoNumeroOchoIntent",
+                    "slots": [],
+                    "samples": [
+                        "ocho",
+                        "numero ocho",
+                        "activa ocho",
+                        "activa numero ocho",
+                        "quiero ocho",
+                        "activar ocho",
+                        "activar numero ocho"
+                    ]
+                },
+                {
+                    "name": "ModoNumeroNueveIntent",
+                    "slots": [],
+                    "samples": [
+                        "nueve",
+                        "numero nueve",
+                        "activa nueve",
+                        "activa numero nueve",
+                        "quiero nueve",
+                        "activar nueve",
+                        "activar numero nueve"
+                    ]
+                },
+                {
+                    "name": "ModoNumeroDiezIntent",
+                    "slots": [],
+                    "samples": [
+                        "diez",
+                        "numero diez",
+                        "activa diez",
+                        "activa numero diez",
+                        "quiero diez",
+                        "activar diez",
+                        "activar numero diez"
+                    ]
+                },
+                {
+                    "name": "ModoAgarreIntent",
+                    "slots": [],
+                    "samples": [
+                        "agarrar objetos",
+                        "activa agarra objetos",
+                        "activar agarrar objetos"
+                    ]
+                },
+                {
+                    "name": "ModoAgarrarSalirIntent",
+                    "slots": [],
+                    "samples": [
+                        "salir del agarrar objetos",
+                        "desactivar agarrar objetos"
+                    ]
+                },
+                {
+                    "name": "ModoAgarrarIzquierdaIntent",
+                    "slots": [],
+                    "samples": [
+                        "agarra y mueve a la izquierda",
+                        "agarra a la izquierda",
+                        "agarra el objeto y mueve a la izquierda"
+                    ]
+                },
+                {
+                    "name": "ModoAgarrarDerechaIntent",
+                    "slots": [],
+                    "samples": [
+                        "agarra y mueve a la derecha",
+                        "agarra a la derecha",
+                        "agarra el objeto y mueve a la derecha"
+                    ]
+                },
+                {
+                    "name": "AMAZON.HelpIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.CancelIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.StopIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.FallbackIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.NavigateHomeIntent",
+                    "samples": []
+                }
+            ],
+            "types": []
+        }
+    }
+}
