@@ -19,6 +19,6 @@ This project connects a robotic hand with Alexa using various tools and services
 3. The code in `HandPiCode` receives the intent, interprets it, and translates it into commands that the robotic hand understands.
 4. The hand responds to the command and performs the corresponding movement.
 
-> ⚠️ **Important:** The robotic hand control code must be placed inside the `UhandPi Software` folder for it to function properly.
+> ⚠️ **Important:** The robotic hand control code must be placed inside the `uhandpi_software` folder for it to function properly.
 
 
